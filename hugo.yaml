@@ -1,0 +1,97 @@
+baseURL: 'https://happypathfire.github.io/'
+languageCode: 'en-us'
+title: 'Happy Path Fire'
+theme: 'hugo-theme-stack'
+
+# Add this section to allow raw HTML
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+      
+params:
+  mainSections:
+    - post
+  featuredImageField: image
+  rssFullContent: true
+  favicon: /favicon.ico
+  
+  footer:
+    since: 2019
+    customText:
+
+  dateFormat:
+    published: Jan 02, 2006
+    lastUpdated: Jan 02, 2006 15:04 MST
+
+  sidebar:
+    emoji: 
+    subtitle: Achieve Finanicial Independence along the Happy Path !!!
+    description: |
+      A blog about financial independence, early retirement, and living a fulfilling life.
+    avatar:
+      enabled: true
+      local: true
+      src: img/avatar.png
+
+  article:
+    math: false
+    toc: true
+    readingTime: true
+    license:
+      enabled: false
+
+  widgets:
+    homepage:
+      - type: search
+      - type: archives
+        params:
+          limit: 5
+      - type: categories
+        params:
+          limit: 10
+      - type: tag-cloud
+        params:
+          limit: 10
+    page:
+      - type: search
+      - type: toc
+
+# Menu will be populated dynamically from pages
+# Menu configuration with specific order
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: book
+      name: Book
+      url: /book/
+      weight: 20
+    - identifier: fire-course
+      name: FIRE Course
+      url: /fire-course/
+      weight: 30
+    - identifier: start-here
+      name: Start Here!
+      url: /start-here/
+      weight: 40
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 50
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 60
+
+related:
+  includeNewer: true
+  threshold: 60
+  toLower: false
+  indices:
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 200
