@@ -94,10 +94,10 @@ menu:
       name: About
       url: /about/
       weight: 50
-    - identifier: archives
-      name: Archives
-      url: /archives/
-      weight: 60
+    # - identifier: archives
+    #   name: Archives
+    #   url: /archives/
+    #   weight: 60
     # - identifier: search
     #   name: Search
     #   url: /search/
