@@ -1,4 +1,4 @@
-baseURL: 'https://happypathfire.github.io/'
+baseURL: 'https://happypathfire.com/'
 languageCode: 'en-us'
 title: 'Happy Path Fire'
 theme: 'hugo-theme-stack'
