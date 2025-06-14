@@ -1,6 +1,7 @@
 # Hugo default output directory
 /public/
 /resources/_gen/
+/content/post/.obsidian/
 
 # Temporary files
 .DS_Store

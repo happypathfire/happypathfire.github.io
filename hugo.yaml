@@ -3,6 +3,19 @@ languageCode: 'en-us'
 title: 'Happy Path Fire'
 theme: 'hugo-theme-stack'
 
+# paginattion:
+#   pagerSize: 20
+
+pagination:
+    pagerSize: 20
+
+# Add this section for search
+# outputs:
+#   home:
+#     - HTML
+#     - RSS
+#     - JSON
+
 # Add this section to allow raw HTML
 markup:
   goldmark:
@@ -49,10 +62,10 @@ params:
           limit: 5
       - type: categories
         params:
-          limit: 10
+          limit: 20
       - type: tag-cloud
         params:
-          limit: 10
+          limit: 20
     page:
       - type: search
       - type: toc
@@ -85,6 +98,10 @@ menu:
       name: Archives
       url: /archives/
       weight: 60
+    # - identifier: search
+    #   name: Search
+    #   url: /search/
+    #   weight: 70
 
 related:
   includeNewer: true
@@ -95,3 +112,13 @@ related:
       weight: 100
     - name: categories
       weight: 200
+
+security:
+  exec:
+    allow:
+      - '^dart-sass-embedded$'
+      - '^go$'
+      - '^npx$'
+      - '^postcss$'
+      - '^tailwindcss$'
+      - 'js.Build'

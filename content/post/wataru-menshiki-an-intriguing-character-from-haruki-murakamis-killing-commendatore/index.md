@@ -1,5 +1,5 @@
 ---
-title: "<strong>Wataru Menshiki — An intriguing character from Haruki Murakami’s Killing Commendatore</strong>"
+title: "Wataru Menshiki — An intriguing character from Haruki Murakami’s Killing Commendatore"
 date: 2022-09-09
 categories: 
   - "behavioral-finance"
