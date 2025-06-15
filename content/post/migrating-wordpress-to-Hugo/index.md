@@ -89,6 +89,7 @@ I use Obsidian for this purpose. The biggest benefit of using obsidian is that i
 Overall these steps may appear daunting but trust me, using the support of LLMs you will be able to make this migration quite easily. 
 ## Conclusion
 
+With the above changes, my annual costs went down from about 200$s to 10$s (10$s is the annual cost of DNS only)
 It may look like a case of *much ado about nothing* but it is not really about the cost. It is about principles. Recurring costs like subscriptions are something one has to pay really close attention to. They may seem like a small amount but they are in-fact a clever strategy marketers use to trick our mind to pay more over time. Staying on top of such *trifles* is how you stay on the path of FIRE!!! 
 
 
