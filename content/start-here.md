@@ -22,9 +22,9 @@ An Island in the Philippines
 
 The Goal of this Website is to help you achieve FIRE. Start Here for a brief introduction to the What? and Why? of FIRE.
 
-I highly recommend checking out the [Course](https://happypathfire.com/course/) for a thorough understanding of all the concepts needed for achieving FIRE.
+I highly recommend checking out the [Course](https://happypathfire.com/fire-course/) for a thorough understanding of all the concepts needed for achieving FIRE.
 
-\[Already familiar with FIRE? [start exploring here](https://happypathfire.com/all-posts/) \]
+\[Already familiar with FIRE? [start exploring here](https://happypathfire.com/) \]
 
 ## **What is FIRE?**
 
@@ -148,4 +148,4 @@ _The Rich Minister takes pity on the monk who is dressed in humble orange robes 
 
 _The monk quietly responds, ‘If you can learn to enjoy the simple porridge, you don’t have to serve the king!’_
 
-Interesting? - [Start here](https://happypathfire.com/all-posts/) to dive deeper
+Interesting? - [Start here](https://happypathfire.com/) to dive deeper

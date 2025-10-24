@@ -32,6 +32,6 @@ Taking care of my investments. Chilli Peppers :)
 > 
 > * * *
 > 
-> If you curious to know more about what drove me to become interested in personal finance [read this](https://happypathfire.com/money-enables-happiness/)
+> If you curious to know more about what drove me to become interested in personal finance [read this](https://happypathfire.com/post/money-enables-happiness/)
 > 
 > ## You can follow me on twitter [@happypathfire](https://twitter.com/HappyPathFIRE)
