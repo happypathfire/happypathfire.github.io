@@ -1,11 +1,11 @@
 ---
-title: "Understanding Recession 2022&nbsp;"
+title: Understanding Recession 2022
 date: 2022-07-29
-categories: 
-  - "economy"
-tags: 
-  - "finanical-independence"
-  - "recession-2022"
+categories:
+  - economy
+tags:
+  - finanical-independence
+  - recession-2022
 ---
 
 ## What is a Recession?
