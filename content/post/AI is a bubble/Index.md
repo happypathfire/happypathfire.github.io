@@ -21,7 +21,7 @@ tags:
 The spend is real money. It is funded mostly by the cashflow of Big tech and hyperscalers. The chipmakers are actually showing real revenues and net income. Some of them are even buying back their stock in a way to return $s to share-holders
 The spenders like Frontier labs like Anthropic and OpenAI have at least 200B\$s in ARR between them and its growing.
 
-**Peak spend argument** - This is true because it is not mathematically possible to grow in the second derivative forever. i.e. the $d^2(spend)/dt^2$ might become 0 or even turn negative. But the spending rate $d(spend)/dt$ will be at this new elevated level given very long-term contracts for pretty much until the end of the decade. Every time there a new usecase, a new capability, a break-through, an incremental progress is announced, people will realize how much under-allocated they have been all along.
+**Peak spend argument** - This is true because it is not mathematically possible to grow in the second derivative forever. It might become 0 or even turn negative. But the spending rate will be at this new elevated level given very long-term contracts for pretty much until the end of the decade. Every time there a new usecase, a new capability, a break-through, an incremental progress is announced, people will realize how much under-allocated they have been all along.
 
 The only remaining open questions (non-trivial) are:
 1. For Chip, interconnects, neo-clouds, hyperscalers - How much longer will the spending last? Is it cyclical like all other cycles previously? 
