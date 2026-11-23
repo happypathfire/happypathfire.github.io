@@ -1,9 +1,14 @@
 ---
-title: "The real reason people hate(fear) Data Centers"
+title: The real reason people hate(fear) Data Centers
 date: 2026-11-23T17:18:01-05:00
 draft: false
-tags: []
-categories: []
+tags:
+  - behavioral-finance
+  - economics
+categories:
+  - economy
+  - concepts
+  - behavioral-finance
 image: ""
 description: ""
 ---
